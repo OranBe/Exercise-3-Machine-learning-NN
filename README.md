@@ -12,7 +12,7 @@ This repository contains implementations for classifying handwritten digits, inc
 - **Description:** A modern implementation leveraging PyTorch to build and train a neural network for digit classification, showcasing the ease of development and efficiency provided by this library.
 
 ### Access the Notebook
-The full code and explanations for each approach are available in the [GitHub Notebook](https://github.com/).
+The full code and explanations for each approach are available in the [GitHub Notebook](https://github.com/OranBe/Exercise-3-Machine-learning-NN).
 
 ---
 
